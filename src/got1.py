@@ -57,4 +57,5 @@ for sentence in sentences:
 
 model = gensim.models.Word2Vec(filtered_sentences)
 
-model.vocabulary
+model.save('got.embedding')
+newmodel = gensim.models.Word2Vec.load('got.embedding')
