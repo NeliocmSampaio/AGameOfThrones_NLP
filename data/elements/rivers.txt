@@ -1,6 +1,6 @@
 Acorn Water
 Antler River
-Ash (river)
+Ash
 Big Willow
 Bitter River
 Blackwater Rush
@@ -11,7 +11,7 @@ Broken Branch
 Chequy Water
 Cockleswent
 Darkwash
-Darry (river)
+Darry
 Fever River
 Gods Eye river
 Green Fork
@@ -22,7 +22,7 @@ Last River
 Lhorulu
 Little Rhoyne
 Little Willow
-Maiden (river)
+Maiden
 Mander
 Milkwater
 Noyne
@@ -39,7 +39,7 @@ Torentine
 Trident
 Tumblestone
 Upper Rhoyne
-Vaith (river)
+Vaith
 Volaena
 Weeping Water
 Wendwater

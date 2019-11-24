@@ -1,7 +1,7 @@
 Godswood
 Godswood of Winterfell
 Haunted forest
-Hornwood (forest)
+Hornwood
 Kingdom of the Ifequevron
 Kingswood
 Misty Wood
@@ -9,9 +9,9 @@ Mossovy
 Forest of Qohor
 Rainwood
 Rosewood
-Snakewood (forest)
+Snakewood
 Threepenny Wood
 Wat's Wood
 Whispering Wood
 White Wood
-Wolfswood 
+Wolfswood
