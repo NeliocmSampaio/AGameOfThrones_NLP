@@ -1,50 +1,50 @@
-acorn water : acorn_water
-antler river : antler_river
-ash : ash
-big willow : big_willow
-bitter river : bitter_river
-blackwater rush : blackwater_rush
-blue fork : blue_fork
-blueburn : blueburn
-brimstone : brimstone
-broken branch : broken_branch
-chequy water : chequy_water
-cockleswent : cockleswent
-darkwash : darkwash
-darry : darry
-fever river : fever_river
-gods eye river : gods_eye_river
-green fork : green_fork
-greenapple : greenapple
-greenblood : greenblood
-honeywine : honeywine
-last river : last_river
-lhorulu : lhorulu
-little rhoyne : little_rhoyne
-little willow : little_willow
-maiden : maiden
-mander : mander
-milkwater : milkwater
-noyne : noyne
-qhoyne : qhoyne
-red fork : red_fork
-rhoyne : rhoyne
-rippledown rill : rippledown_rill
-sarne : sarne
-scourge : scourge
-selhoru : selhoru
-skahazadhan : skahazadhan
-slayne : slayne
-torentine : torentine
-trident : trident
-tumblestone : tumblestone
-upper rhoyne : upper_rhoyne
-vaith : vaith
-volaena : volaena
-weeping water : weeping_water
-wendwater : wendwater
-white knife : white_knife
-widows wash : widows_wash
-worm : worm
-wyl : wyl
-zamoyos : zamoyos
+acorn water:acorn_water
+antler river:antler_river
+ash:ash
+big willow:big_willow
+bitter river:bitter_river
+blackwater rush:blackwater_rush
+blue fork:blue_fork
+blueburn:blueburn
+brimstone:brimstone
+broken branch:broken_branch
+chequy water:chequy_water
+cockleswent:cockleswent
+darkwash:darkwash
+darry:darry
+fever river:fever_river
+gods eye river:gods_eye_river
+green fork:green_fork
+greenapple:greenapple
+greenblood:greenblood
+honeywine:honeywine
+last river:last_river
+lhorulu:lhorulu
+little rhoyne:little_rhoyne
+little willow:little_willow
+maiden:maiden
+mander:mander
+milkwater:milkwater
+noyne:noyne
+qhoyne:qhoyne
+red fork:red_fork
+rhoyne:rhoyne
+rippledown rill:rippledown_rill
+sarne:sarne
+scourge:scourge
+selhoru:selhoru
+skahazadhan:skahazadhan
+slayne:slayne
+torentine:torentine
+trident:trident
+tumblestone:tumblestone
+upper rhoyne:upper_rhoyne
+vaith:vaith
+volaena:volaena
+weeping water:weeping_water
+wendwater:wendwater
+white knife:white_knife
+widows wash:widows_wash
+worm:worm
+wyl:wyl
+zamoyos:zamoyos
